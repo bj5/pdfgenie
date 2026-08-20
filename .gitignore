@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# PDF 输入/输出（含版权文件）
+*.pdf
+
+# 运行产物与日志
+nohup.out
+*.log
+preview_*.png
+test_*.png
